@@ -7,7 +7,7 @@ Writeups, scripts, and notes from the HTB Academy AI Red Teamer learning path.
 - [x] Fundamentals of AI
 - [x] Applications of AI in InfoSec
 - [x] Introduction to Red Teaming AI
-- [ ] Prompt Injection Attacks
+- [x] Prompt Injection Attacks
 - [ ] LLM Output Attacks
 - [ ] AI Data Attacks
 - [ ] Attacking AI Application and System
