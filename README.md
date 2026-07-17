@@ -26,3 +26,4 @@ HTB Certified Offensive AI Expert (COAE)
 - Python 3, scikit-learn, PyTorch, torchvision
 - Naive Bayes, Random Forest, ResNet50
 - JupyterLab, conda, joblib
+- swaks, curl, SSH port forwarding
