@@ -9,7 +9,7 @@ Writeups, scripts, and notes from the HTB Academy AI Red Teamer learning path.
 - [x] Introduction to Red Teaming AI
 - [x] Prompt Injection Attacks
 - [x] LLM Output Attacks
-- [ ] AI Data Attacks
+- [x] AI Data Attacks
 - [ ] Attacking AI Application and System
 - [ ] AI Evasion Foundations
 - [ ] AI Evasion First Order Attacks
@@ -23,7 +23,7 @@ HTB Certified Offensive AI Expert (COAE)
 
 ## Tools and Stack
 
-- Python 3, scikit-learn, PyTorch, torchvision
-- Naive Bayes, Random Forest, ResNet50
+- Python 3, scikit-learn, PyTorch, torchvision, numpy
+- Naive Bayes, Random Forest, ResNet50, CNN, LogisticRegression
 - JupyterLab, conda, joblib
-- swaks, curl, SSH port forwarding
+- swaks, curl, SSH port forwarding, ncat, pickle
