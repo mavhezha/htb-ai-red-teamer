@@ -13,7 +13,7 @@ Writeups, scripts, and notes from the HTB Academy AI Red Teamer learning path.
 - [x] Attacking AI Application and System
 - [x] AI Evasion Foundations
 - [x] AI Evasion First Order Attacks
-- [ ] AI Evasion Sparsity Attacks
+- [x] AI Evasion Sparsity Attacks
 - [ ] AI Privacy
 - [ ] AI Defense
 
