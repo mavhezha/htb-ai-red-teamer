@@ -15,8 +15,12 @@ Writeups, scripts, and notes from the HTB Academy AI Red Teamer learning path.
 - [x] AI Evasion First Order Attacks
 - [x] AI Evasion Sparsity Attacks
 - [x] AI Privacy
-- [ ] AI Defense
+- [x] AI Defense
 
 ## Certification Target
 
 HTB Certified Offensive AI Expert (COAE)
+
+## Path Complete
+
+All 12 modules completed. COAE exam pending.
