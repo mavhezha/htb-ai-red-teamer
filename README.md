@@ -24,3 +24,7 @@ HTB Certified Offensive AI Expert (COAE)
 ## Path Complete
 
 All 12 modules completed.
+
+## Status
+
+Certified
